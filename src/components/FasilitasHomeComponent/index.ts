@@ -1,0 +1,14 @@
+export { default as Fasilitas1 } from "./Fasilitas1";
+export { default as Fasilitas2 } from "./Fasilitas2";
+export { default as Fasilitas3 } from "./Fasilitas3";
+export { default as Fasilitas4 } from "./Fasilitas4";
+export { default as Fasilitas5 } from "./Fasilitas5";
+export { default as Fasilitas6 } from "./Fasilitas6";
+export { default as Fasilitas7 } from "./Fasilitas7";
+export { default as Fasilitas8 } from "./Fasilitas8";
+export { default as Fasilitas9 } from "./Fasilitas9";
+export { default as Fasilitas10 } from "./Fasilitas10";
+export { default as Fasilitas11 } from "./Fasilitas11";
+export { default as Fasilitas12 } from "./Fasilitas12";
+export { default as Fasilitas13 } from "./Fasilitas13";
+export { default as Fasilitas14 } from "./Fasilitas14";
